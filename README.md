@@ -28,7 +28,6 @@ Whether you're just getting started or already deep into the AI world, the AIML 
 
 ---
 
-📧 Contact us: [aimlclub@charusat.edu.in]  
-🌐 Website: [https://aiml-charusat.vercel.app]  
-📢 Follow us on [https://www.linkedin.com/company/aiml-club-charusat/]
-
+📧 Contact us: aimlclub@charusat.edu.in
+🌐 Website: https://aiml-charusat.vercel.app 
+📢 Follow us on <a href="https://www.linkedin.com/company/aiml-club-charusat/" target="_blank">LinkedIn</a> <a href="https://www.instagram.com/aiml_club_charusat/" target="_blank">Instagram</a>
